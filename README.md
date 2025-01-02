@@ -2,9 +2,7 @@
 
 Modern tasarımlı, tema desteği olan ve kullanıcı dostu bir Sudoku uygulaması.
 
-<div align="center">
 https://github.com/user-attachments/assets/0f82c09a-61e8-44c4-8bd1-1f46acb60441
-</div>
 
 ## 🌟 Özellikler
 
