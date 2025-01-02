@@ -3,7 +3,10 @@
 Modern tasarımlı, tema desteği olan ve kullanıcı dostu bir Sudoku uygulaması.
 
 <div align="center">
-  <video src="https://github.com/your-username/sudoku-app/assets/videos/sudoku-app-video.mp4" width="280"/>
+  <video width="320" height="240" controls>
+    <source src="assets/videos/sudoku-app-video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 ## 🌟 Özellikler
