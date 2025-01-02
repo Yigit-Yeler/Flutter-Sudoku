@@ -43,4 +43,4 @@ https://github.com/user-attachments/assets/0f82c09a-61e8-44c4-8bd1-1f46acb60441
 
 1. Projeyi klonlayın:
    ```bash
-   git clone https://github.com/username/flutter-sudoku-app.git
+   https://github.com/Yigit-Yeler/Flutter-Sudoku.git
